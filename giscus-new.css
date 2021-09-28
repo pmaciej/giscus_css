@@ -131,6 +131,6 @@ a::hover {
     color: #eec80e;
 }
 
-gsc-comment-box-separator {
-    border-top-width: 0px !important;
+.gsc-comment-box-separator {
+    border-top-width: 0px;
 }
