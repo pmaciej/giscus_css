@@ -5,17 +5,17 @@
  */
 main {
     --color-text-primary: #2b364c;
-    --color-text-secondary: #ccc;
-    --color-text-tertiary: #ccc;
+    --color-text-secondary: #e9e9ea;
+    --color-text-tertiary: #e9e9ea;
     --color-text-link: #58a6ff;
     --color-text-danger: #f85149;
     --color-text-success: #3fb950;
-    --color-border-primary: #ccc;
+    --color-border-primary: #e9e9ea;
     --color-border-secondary: #21262d;
     --color-border-tertiary: hsla(215, 8%, 47%, 0.4);
     --color-border-info: #1f6feb;
     --color-bg-canvas: #ccc;
-    --color-bg-canvas-inset: #ccc;
+    --color-bg-canvas-inset: #e9e9ea;
     --color-bg-primary: #2b364e;
     --color-bg-secondary: #253341;
     --color-bg-tertiary: #2b364e;
@@ -30,9 +30,9 @@ main {
     --color-counter-secondary-bg: hsla(215, 8%, 47%, 0.1);
     --color-box-border-info: rgba(56, 139, 253, 0.4);
     --color-hidden-text-expander-bg: hsla(215, 8%, 47%, 0.4);
-    --color-label-border: #ccc;
-    --color-input-bg: #ccc;
-    --color-input-contrast-bg: #ccc;
+    --color-label-border: #e9e9ea;
+    --color-input-bg: #e9e9ea;
+    --color-input-contrast-bg: #e9e9ea;
     --color-input-border: #30363d;
     --color-diff-blob-num-text: #768390;
     --color-diff-blob-num-hover-text: #adbac7;
