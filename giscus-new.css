@@ -180,6 +180,6 @@ p {
     background-color: #2b364c;
 }
 
-.markdown color-border-primary gsc-comment-box-preview {
+div.markdown .color-border-primary .gsc-comment-box-preview {
     background-color: #2b364c !important;
 }
