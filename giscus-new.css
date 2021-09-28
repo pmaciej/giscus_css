@@ -15,7 +15,7 @@ main {
     --color-border-tertiary: hsla(215, 8%, 47%, 0.4);
     --color-border-info: #1f6feb;
     --color-bg-canvas: #e9e9ea;
-    --color-bg-canvas-inset: #e9e9ea;
+    --color-bg-canvas-inset: #2b364c;
     --color-bg-primary: #2b364e;
     --color-bg-secondary: #253341;
     --color-bg-tertiary: #2b364e;
@@ -149,4 +149,8 @@ div.gsc-comment-author span {
 
 div.gsc-comment-author a:hover {
     color: #eec80e;
+}
+
+span {
+    color: #e9e9ea;
 }
