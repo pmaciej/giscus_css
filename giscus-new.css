@@ -138,3 +138,7 @@ a::hover {
 hr {
     border-top-width: 0px !important;
 }
+
+hr .gsc-comment-box-separator color-border-primary {
+    border-top-width: 0px !important;
+}
