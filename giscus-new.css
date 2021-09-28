@@ -143,6 +143,6 @@ div.gsc-comment-author span {
     color: #fff
 }
 
-div.gsc-comment-author a:hover span {
+div.gsc-comment-author a:hover {
     color: #eec80e;
 }
