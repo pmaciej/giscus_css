@@ -131,7 +131,7 @@ a::hover {
     color: #eec80e;
 }
 
-.Link--primary {
+span .font-semibold .Link--primary {
     color: #e9e9ea;
 }
 
