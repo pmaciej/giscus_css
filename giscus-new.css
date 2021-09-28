@@ -131,14 +131,10 @@ a::hover {
     color: #eec80e;
 }
 
-.gsc-comment-box-separator {
-    border-top-width: 0px !important;
-}
-
-hr {
-    border-top-width: 0px !important;
-}
-
 hr .gsc-comment-box-separator color-border-primary {
     border-top-width: 0px !important;
+}
+
+button .px-4 .py-2 .border .border-b-0 .focus:outline-none .color-text-primary .color-bg-canvas .rounded-t .color-border-primary {
+    color: #eec80e;
 }
