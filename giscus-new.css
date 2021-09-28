@@ -127,10 +127,6 @@ main {
     background-color: #e9e9ea;
 }
 
-a::hover {
-    color: #eec80e;
-}
-
 span .font-semibold .Link--primary {
     color: #e9e9ea;
 }
