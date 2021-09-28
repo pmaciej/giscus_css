@@ -139,6 +139,6 @@ button .px-4 .py-2 .border .border-b-0 .focus:outline-none .color-text-primary .
     color: #eec80e;
 }
 
-div.gsc-comment-author-avatar a {
+div.gsc-comment-author span {
     color: #fff
 }
