@@ -127,7 +127,7 @@ main {
     background-color: #2b364c;
 }
 
-span .font-semibold .Link--primary {
+* {
     color: #e9e9ea;
 }
 
@@ -135,11 +135,7 @@ span {
     color: #e9e9ea;
 }
 
-.font-semibold {
-     color: #e9e9ea;
-}
-
-.Link--primary {
+span .font-semibold .Link--primary {
     color: #e9e9ea;
 }
 
@@ -151,20 +147,20 @@ hr .gsc-comment-box-separator color-border-primary {
     border-top-width: 0px !important;
 }
 
+.font-semibold {
+     color: #e9e9ea;
+}
+
+.Link--primary {
+    color: #e9e9ea;
+}
+
 div.gsc-comment-author span {
     color: #fff
 }
 
-span {
-    color: #e9e9ea;
-}
-
 div.gsc-tl-line {
     background-color: #e9e9ea;
-}
-
-* {
-    color: #e9e9ea;
 }
 
 .gsc-reactions-menu .gsc-social-reaction-summary-item  {
