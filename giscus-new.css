@@ -168,8 +168,8 @@ p {
 }
 
 .gsc-social-reaction-summary-item  {
-    background-color: #2b364c;
-    border-color: #eec80e;
+    background-color: #2b364c !important;
+    border-color: #eec80e !important;
 }
 
 .gsc-reactions-popover.open {
