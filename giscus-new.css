@@ -132,5 +132,9 @@ a::hover {
 }
 
 .gsc-comment-box-separator {
-    border-top-width: 0px;
+    border-top-width: 0px !important;
+}
+
+hr {
+    border-top-width: 0px !important;
 }
