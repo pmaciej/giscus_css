@@ -127,12 +127,12 @@ main {
     background-color: #e9e9ea;
 }
 
-a {
-    color: #e9e9ea;
-}
-
 a::hover {
     color: #eec80e;
+}
+
+.Link--primary {
+    color: #e9e9ea;
 }
 
 hr {
