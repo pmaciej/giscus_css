@@ -172,6 +172,10 @@ p {
     border-color: #eec80e !important;
 }
 
+.gsc-reactions-menu .gsc-social-reaction-summary-item .octicon  {
+    fill: #eec80e !important;
+}
+
 .gsc-reactions-popover.open {
     background-color: #2b364c;
 }
