@@ -163,7 +163,7 @@ div.gsc-tl-line {
     background-color: #e9e9ea;
 }
 
-body {
+* {
     color: #e9e9ea;
 }
 
@@ -178,4 +178,8 @@ body {
 
 .gsc-reactions-popover.open {
     background-color: #2b364c;
+}
+
+.gsc-replies-count, textarea {
+    color: #2b364c !important;
 }
