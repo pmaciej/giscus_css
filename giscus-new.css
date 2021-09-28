@@ -167,7 +167,7 @@ p {
     color: #e9e9ea;
 }
 
-.Link--secondary .gsc-reactions-button .gsc-social-reaction-summary-item .popover {
+.gsc-reactions-button .gsc-social-reaction-summary-item {
     background-color: #2b364c;
     border-color: #eec80e;
 }
