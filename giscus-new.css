@@ -124,7 +124,7 @@ main {
     padding-bottom: 1rem;
 }
 .gsc-comment-box-preview {
-    background-color: #e9e9ea;
+    background-color: #2b364c;
 }
 
 span .font-semibold .Link--primary {
@@ -178,8 +178,4 @@ p {
 
 .gsc-reactions-popover.open {
     background-color: #2b364c;
-}
-
-div.markdown .color-border-primary .gsc-comment-box-preview {
-    background-color: #2b364c !important;
 }
