@@ -130,3 +130,7 @@ main {
 a::hover {
     color: #eec80e;
 }
+
+hr {
+    display: none;
+}
