@@ -135,7 +135,7 @@ hr {
     border-top-width: 0px !important;
 }
 
-.gsc-comment-box-separator color-border-primary {
+hr .gsc-comment-box-separator color-border-primary {
     border-top-width: 0px !important;
 }
 
