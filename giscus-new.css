@@ -135,6 +135,18 @@ span .font-semibold .Link--primary {
     color: #e9e9ea;
 }
 
+span {
+    color: #e9e9ea;
+}
+
+.font-semibold {
+     color: #e9e9ea;
+}
+
+.Link--primary {
+    color: #e9e9ea;
+}
+
 hr {
     border-top-width: 0px !important;
 }
