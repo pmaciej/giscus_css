@@ -138,3 +138,7 @@ hr .gsc-comment-box-separator color-border-primary {
 button .px-4 .py-2 .border .border-b-0 .focus:outline-none .color-text-primary .color-bg-canvas .rounded-t .color-border-primary {
     color: #eec80e;
 }
+
+.Link--primary {
+    color: #fff;
+}
