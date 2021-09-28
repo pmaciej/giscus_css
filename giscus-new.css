@@ -142,3 +142,7 @@ button .px-4 .py-2 .border .border-b-0 .focus:outline-none .color-text-primary .
 div.gsc-comment-author span {
     color: #fff
 }
+
+div.gsc-comment-author span::hover {
+    color: #eec80e;
+}
